@@ -1,0 +1,8 @@
+1º git config --global user.email "@gmail.com"
+2º git config --global user.name "nome"
+3º git init
+4º git remote add origin https://github.com/erickpetterson/js-HoraDeCodar.git
+5º git status
+6º git add . ou aquivo.txt
+7º git commit -m "mensagem"
+8º git push -u origin main ou master
