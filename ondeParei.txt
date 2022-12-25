@@ -1,0 +1,5 @@
+--- curso no youtube
+* canal Hora de codar *
+
+--- curso de Javascript
+// video 15 comparaçao de valor e tipo de dado
