@@ -1,4 +1,5 @@
 1º git status
 2º git add .
 3º git commit -m "mensagem"
-4º git push -u origin main ou master
+4º git branch -M main
+5º git push -u origin main ou master

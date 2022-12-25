@@ -5,4 +5,5 @@
 5º git status
 6º git add . ou aquivo.txt
 7º git commit -m "mensagem"
-8º git push -u origin main ou master
+8º git branch -M main
+9º git push -u origin main ou master
